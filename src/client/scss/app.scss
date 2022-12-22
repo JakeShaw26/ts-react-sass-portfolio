@@ -21,4 +21,8 @@ $theme-colors: (
 	// add any additional color below
 );
 
+h1 {
+	color: $secondary;
+};
+
 @import '../../../node_modules/bootstrap/scss/bootstrap.scss';
